@@ -1,0 +1,17 @@
+Script started on Thu Feb  6 19:45:29 2025
+[1m[7m%[27m[1m[0m                                                                                                                                                                                 [0m[27m[24m[J(base) ptzburn@Milans-MacBook-Pro part12 % [K[?2004hddocker container run -it ubuntu bash[?2004l
+Unable to find image 'ubuntu:latest' locally
+latest: Pulling from library/ubuntu
+
+[1A[2K5b17151e9710: Pulling fs layer [1B[1A[2K5b17151e9710: Downloading [=========>                                         ]  5.243MB/28.89MB[1B[1A[2K5b17151e9710: Downloading [===================>                               ]  11.53MB/28.89MB[1B[1A[2K5b17151e9710: Downloading [==================================>                ]  19.92MB/28.89MB[1B[1A[2K5b17151e9710: Downloading [===========================================>       ]  25.17MB/28.89MB[1B[1A[2K5b17151e9710: Download complete [1BDigest: sha256:72297848456d5d37d1262630108ab308d3e9ec7ed1c3286a32fe09856619a782
+Status: Downloaded newer image for ubuntu:latest
+[?2004h]0;root@677a2f175110: /root@677a2f175110:/# mkdir /usr/src/app
+[?2004l[?2004h]0;root@677a2f175110: /root@677a2f175110:/# cd /usr/src/app
+[?2004l[?2004h]0;root@677a2f175110: /usr/src/approot@677a2f175110:/usr/src/app# touch index.js
+[?2004l[?2004h]0;root@677a2f175110: /usr/src/approot@677a2f175110:/usr/src/app# ls
+[?2004lindex.js
+[?2004h]0;root@677a2f175110: /usr/src/approot@677a2f175110:/usr/src/app# exit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                                                                                                                 [0m[27m[24m[J(base) ptzburn@Milans-MacBook-Pro part12 % [K[?2004heexit[?2004l
+
+Script done on Thu Feb  6 19:46:37 2025
